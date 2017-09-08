@@ -1,0 +1,9 @@
+.Materialborder{
+  border: #08E761 dashed 2px;
+  padding: 5px;
+  margin: 20px;
+  border-radius: 15px;
+}
+.MaterialBigSize{
+  font-size: 16px;
+}

@@ -1,0 +1,13 @@
+.header{
+  left:200px;
+  font-size: 20px;
+}
+.bigMarginBottom{
+  margin-bottom : 20px ;
+}
+.Userborder{
+  border: #E6E61A dashed 2px;
+  padding: 5px;
+  margin: 20px;
+  border-radius: 15px;
+}

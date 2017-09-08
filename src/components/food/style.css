@@ -1,0 +1,9 @@
+.Foodborder{
+  border: #E76108 dashed 1px;
+  padding: 5px;
+  margin: 20px;
+  border-radius: 15px;
+}
+.bigMarginBottom{
+  margin-bottom : 20px ;
+}

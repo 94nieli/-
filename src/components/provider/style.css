@@ -1,0 +1,9 @@
+.bigMarginBottom{
+  margin-bottom : 20px ;
+}
+.Providerborder{
+  border: #9222DD dashed 1px;
+  padding: 5px;
+  margin: 20px;
+  border-radius: 15px;
+}

@@ -1,0 +1,18 @@
+ .center{
+  text-align: center;
+}
+.imgsize{
+  height: 200px;
+  width: 200px;
+}
+.bigFontSize{
+  font-size: 18px;
+}
+.roomNumber{
+  font-family: monospace;
+  font-size: 60px;
+  font-family: 900;
+  color: #fff;
+  border-radius: 15px;
+  background: #108ee9
+}
